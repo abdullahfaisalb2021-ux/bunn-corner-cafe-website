@@ -1,0 +1,5 @@
+# Files that do not belong on the deployed website.
+# Vercel reads this file when you deploy with the CLI or from a Git repository.
+_reference/
+_stitch_extract/
+preview.ps1
